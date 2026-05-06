@@ -1,0 +1,2 @@
+public class lev12 {
+}
